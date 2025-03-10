@@ -184,7 +184,7 @@ seaborn
 # Keep it commented out the FIRST time you run pip install from requirements.txt
 # Uncomment it the SECOND time you run pip install from requirements.txt
 # Otherwise, it's too much work and takes too long. Two steps is better. 
-# scikit-learn
+scikit-learn
 
 # ======================================================
 # NATURAL LANGUAGE PROCESSING (NLP) - CAN BE VERY LARGE

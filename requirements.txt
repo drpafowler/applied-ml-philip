@@ -142,6 +142,9 @@ numpy
 # Data manipulation and analysis (built on numpy, 10-20 MB)
 pandas
 
+# Spatial data manipulation
+geopandas
+
 # ======================================================
 # VISUALIZATION
 # ======================================================

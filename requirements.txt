@@ -204,3 +204,5 @@ scikit-learn
 # ======================================================
 # In a terminal, run the following command to export the specific package versions to a file:
 #pip freeze > rv.txt
+
+kagglehub

@@ -6,6 +6,7 @@
 # Visual Studio Code settings and workspace folder - Ignore entire .vscode folder except settings.json
 .vscode/*
 !.vscode/settings.json
+.vscode
 
 # Compiled Python files
 __pycache__/
@@ -18,3 +19,7 @@ __pycache__/
 
 # data folder
 data/
+
+# example folders
+example01/
+example02/
